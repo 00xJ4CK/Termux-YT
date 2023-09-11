@@ -37,4 +37,4 @@ chmod +x ~/bin/termux-url-opener
 echo -e "\n"
 echo -e "\e[032m" "Process Complete!"
 echo -e "\e[032m" "Now you can share any Youtube video with Termux and you will be ask to select the quality of your downloaded video and after that,It will be automatically Downloaded. If You will share shorts, it will be download automatically."
-echo -e "\e[033m" "For More Awesome and Useful Tool like this Visit My website ©www.LearnTermux.tech"
+
