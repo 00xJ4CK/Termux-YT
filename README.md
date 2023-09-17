@@ -6,16 +6,7 @@
 ### Installation:
 
 ```
-pkg install git 
-```
-```
-git clone https://github.com/00xJACK/Termux-YT/
-```
-```
-cd Termux-YT
-```
-```
-bash install.sh
+apt update && apt -y upgrade && cd && pkg install git -y && git clone https://github.com/00xJ4CK/Termux-YT/ && cd Termux-YT && bash install.sh
 ```
 <br>
 <br>
