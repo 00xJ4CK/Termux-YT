@@ -9,7 +9,7 @@
 pkg install git 
 ```
 ```
-git clone https://github.com/00xJACK/Termux-YT.git
+git clone https://github.com/00xJACK/Termux-YT/
 ```
 ```
 cd Termux-YT
